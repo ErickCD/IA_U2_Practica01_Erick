@@ -1,0 +1,2 @@
+# IA_U2_Practica01_Erick
+Primera práctica de IA en java, diseño básico, resolución de laberintos.
